@@ -14,3 +14,4 @@ http://docs.astropy.org/en/stable/io/fits/ - Fits information
 http://docs.astropy.org/en/stable/io/votable/ - VO Table information
 http://docs.astropy.org/en/stable/coordinates/matchsep.html - Matching for JH and NYU catalogues
 http://hla.stsci.edu/hla_help.html#services - HST data
+https://wwwmpa.mpa-garching.mpg.de/SDSS/DR7/SDSS_info.html - Ra_Dec Information
