@@ -15,3 +15,8 @@ http://docs.astropy.org/en/stable/io/votable/ - VO Table information
 http://docs.astropy.org/en/stable/coordinates/matchsep.html - Matching for JH and NYU catalogues
 http://hla.stsci.edu/hla_help.html#services - HST data
 https://wwwmpa.mpa-garching.mpg.de/SDSS/DR7/SDSS_info.html - Ra_Dec Information
+
+5/18/2018
+Create script to download vo files for HST data.
+Develope more code to try and get the loop to run through the shell script.
+Run loop for some test itterations.
