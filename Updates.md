@@ -20,3 +20,6 @@ https://wwwmpa.mpa-garching.mpg.de/SDSS/DR7/SDSS_info.html - Ra_Dec Information
 Create script to download vo files for HST data.
 Develope more code to try and get the loop to run through the shell script.
 Run loop for some test itterations.
+Scrap shell script and just use python...
+It works.
+Start downloading vo tables for all galaxies in the sdss survey.
