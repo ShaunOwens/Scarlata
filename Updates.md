@@ -23,3 +23,9 @@ Run loop for some test itterations.
 Scrap shell script and just use python...
 It works.
 Start downloading vo tables for all galaxies in the sdss survey.
+
+5/21/2018
+Continue to download VO files from hubble.
+Through 114000 now. Will start to develope code to use vo files tomorrow.
+Setup linux on personal computer for easier time with coding.
+Begin organizing for studying for GWE. Will start tomorrow.
