@@ -29,3 +29,23 @@ Continue to download VO files from hubble.
 Through 114000 now. Will start to develope code to use vo files tomorrow.
 Setup linux on personal computer for easier time with coding.
 Begin organizing for studying for GWE. Will start tomorrow.
+
+5/22/2018
+Begin studying for the gwe. ~2 hours.
+Continue downloading vo files. At 138000 now.
+Develope code to start downloading the fit image files from the vo files.
+Choose device: WFC3 and filters: F475W, F475X.
+
+5/23/2018
+Begin downloading image files. There are approximately 10 unique images in the first 140000 vo files. Another filter may be necessary.
+Install and learn ds9.
+Talk to John about what should be done next about the images. So far they look incorrect so changes must be made.
+Study for the GWE. ~1 hour.
+Spent a lot of the day driving.
+
+5/24/2018
+Study for the GWE. 
+Download more vo files while waiting for meeting.
+Ask questions about DS9.
+Begin to learn how to cut image files down to correct specifications.
+Prepare for meeting on Friday.
