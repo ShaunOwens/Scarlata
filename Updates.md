@@ -44,8 +44,18 @@ Study for the GWE. ~1 hour.
 Spent a lot of the day driving.
 
 5/24/2018
-Study for the GWE. 
+Study for the GWE. ~1 hour.
 Download more vo files while waiting for meeting.
 Ask questions about DS9.
 Begin to learn how to cut image files down to correct specifications.
 Prepare for meeting on Friday.
+
+5/25/2018
+Beging to understand how cuts work with the data obtained.
+Research meeting. -Start sending these to Dr. Scarlata and Dr. Fortson. Continue learning how to use data. Transfer code to SciServer and begin using their resourses to complete tasks faster. Read all documentation  pertaining to what will be used.
+Drive home...
+
+5/28/2018
+Read documentation and ask Hugh questions.
+
+5/29/2018
