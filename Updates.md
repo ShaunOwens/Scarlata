@@ -59,3 +59,23 @@ Drive home...
 Read documentation and ask Hugh questions.
 
 5/29/2018
+Study for GWE. ~1 hour
+Read through code and begin learning sciserver.
+Set up account in sciserver and beging learning query procedure.
+
+5/30/2018
+Study for GWE. ~1 hour
+Start running code.
+Imports: Easy. Understand.
+Query: Few manipulations. Testing. Understand.
+VO Table: Understand code but small problems. Code seems to work properly except for a datatype error that I can't seem to correct. Ask Hugh about it and bring it up at meeting.
+Download: Fairly straightforward. Takes votable and downloads file from that location. Understand
+Image: Figure manipulation. Understand.
+Cutout: Need to understand.
+Plot Cutout: Need to understand.
+
+5/31/2018
+Study for GWE. ~2 hours
+Meeting.
+Continue to try and understand where error is coming from. Data is not being processed properly. I don't understand why.
+Finish update file for this week. 
