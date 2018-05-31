@@ -78,4 +78,5 @@ Plot Cutout: Need to understand.
 Study for GWE. ~2 hours
 Meeting.
 Continue to try and understand where error is coming from. Data is not being processed properly. I don't understand why.
-Finish update file for this week. 
+Finish update file for this week.
+Talk with Hugh to try and fix my misunderstanding.
