@@ -80,3 +80,5 @@ Meeting.
 Continue to try and understand where error is coming from. Data is not being processed properly. I don't understand why.
 Finish update file for this week.
 Talk with Hugh to try and fix my misunderstanding.
+Hugh explained much. I didn't have an error at all it was just an empty vo table...
+With this knowledge, I edited Hugh's code to be able to loop through many locations looking for vo tables. I was able to run the code with my computer off because its on a server. The loop I have run this time should be done by the meeting. At that time I can start searching for and downloading the fits files.
