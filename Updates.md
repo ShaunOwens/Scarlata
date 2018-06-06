@@ -1,5 +1,22 @@
 # Updates
 
+6/06/2018
+Study for GWE. ~1 hour.
+Work on code. Still not working.
+Finish reading for the week. Write abstract.
+
+6/05/2018
+Complete code for loops. At least to my knowledge. The code can now loop through 800000 sources in 25 minutes but files are still empty. Tomorrow I will work with syntax more to try and figure out why it isn't downloading anything. Read some of the paper for this week.
+
+6/04/2018
+Start using new code to try and learn loops for downloading data. Unable to complete today but mostly reading documentation and understanding syntax.
+
+6/01/2018
+Study for GWE. ~1 hour.
+Meeting.
+Code works and I am able to download and cut all files but it will take almost a week to do one filer. This is too slow.
+Learn about mass download from MAST API. Start learning code for that to be able to mass download.
+
 5/31/2018: 
 Study for GWE. ~2 hours.
 Meeting.
@@ -8,7 +25,6 @@ Finish update file for this week.
 Talk with Hugh to try and fix my misunderstanding.
 Hugh explained much. I didn't have an error at all it was just an empty vo table...
 With this knowledge, I edited Hugh's code to be able to loop through many locations looking for vo tables. I was able to run the code with my computer off because its on a server. The loop I have run this time should be done by the meeting. At that time I can start searching for and downloading the fits files.
-
 
 5/30/2018: 
 Study for GWE. ~1 hour.
