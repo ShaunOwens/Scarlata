@@ -1,5 +1,21 @@
 # Updates
 
+6/08/2018
+Prepare for meeting.
+Meeting went well. I now understand what I was doing wrong and what I need to do to fix it. Will start working on this tonight.
+1. Use HSC matching to match sdss object to HSC object.
+2. Select filters to use.
+3. Query image that contain the objects interested in.
+4. Filter out duplicate images.
+5. Develope plan for downloading images and saving space on HDD.
+6. Download images.
+7. Make plan for cutting images.
+
+6/07/2018
+Study for GWE. ~1 hour.
+Still working on code. Insufficient memory errors that must be figured out.
+Prepare for meeting.
+
 6/06/2018
 Study for GWE. ~1 hour.
 Work on code. Still not working.
