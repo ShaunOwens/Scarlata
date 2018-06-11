@@ -1,7 +1,7 @@
 # Updates
 
 6/11/2018
-Use information obtained in meetings to start matching HSC sources to zoo sources. This involves using list comprehension to complete a query very quickly and save the results. This doesn't work exactly like I would like it to. It workes for one loop through a large query but breakes in the second one. It seems when calling the request again, the return result is the same as the last request no matter what is fed into the array assined to ra and dec. I have used several different sized lists, rerun the code printing every step to make sure it is doing what I want it to do, and even run the request outside of the loop and it is still broken. I will continue testing...
+Use information obtained in meetings to start matching HSC sources to zoo sources. This involves using list comprehension to complete a query very quickly and save the results. This doesn't work exactly like I would like it to. It workes for one loop through a large query but breakes in the second one. It seems when calling the request again, the return result is the same as the last request no matter what is fed into the array assined to ra and dec. I have used several different sized lists, rerun the code printing every step to make sure it is doing what I want it to do, and even run the request outside of the loop and it is still broken. I will continue testing... It seems to be an error in the requesting and decoding of the data. I will try and tackle this tomorrow. Otherwise I can just run this in chunks of 3000-4000 over the course of a day or so and get the matching done.
 
 6/08/2018
 Prepare for meeting.
