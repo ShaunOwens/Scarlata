@@ -1,5 +1,12 @@
 # Updates
 
+6/18,2018
+
+Start attempting to connect matches to images from the catalog. I have a number of matches using the ACS_F475W filter that I can test on to try and get just a couple images downloaded in the next few days. I am currently unable to find the pointer to the image file though. Tomorrow I will try a few other things I think might work to get the image downloaded. I will keep working with Clara from support to try and figure out my error.
+
+6/12/2018-6/15/2018
+Continue to try and match zoo catalog to HSC catalog. I have completed the requests on about half of the catalog but this can't continue. Repeating the request manually every 10-15 minutes just takes up too much of my time. I have started a conversation with the support staff of STSCI. This might help in the long run but righ now we are having a hard time replicating the error on both systems. Drove back to Minneapolis in this time. Meeting Thursday went well. I have to read my next paper more in depth next time.
+
 6/11/2018
 Use information obtained in meetings to start matching HSC sources to zoo sources. This involves using list comprehension to complete a query very quickly and save the results. This doesn't work exactly like I would like it to. It workes for one loop through a large query but breakes in the second one. It seems when calling the request again, the return result is the same as the last request no matter what is fed into the array assined to ra and dec. I have used several different sized lists, rerun the code printing every step to make sure it is doing what I want it to do, and even run the request outside of the loop and it is still broken. I will continue testing... It seems to be an error in the requesting and decoding of the data. I will try and tackle this tomorrow. Otherwise I can just run this in chunks of 3000-4000 over the course of a day or so and get the matching done.
 
