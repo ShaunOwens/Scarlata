@@ -1,7 +1,12 @@
 # Updates
 
-6/18,2018
+6/20/2018
+I spent a lot of the day helping my roommate out. With the time I did have, I finished the paper I was reading, studied for the GWE, and tried to download a FITS file from the HSC catalog. I have a file that seems to have something in it. It is about 300MB but the file type is not something I have seen before. I am going to try and see if I can convert it in to something usable tomorrow.
 
+6/19/2018
+I got a message from Hugh about downloading data... It turns out there isn't documentation on downloading from the hsc catalog and he has is own set of code that does it. He sent me that so I could start figuring out what needs to happen in order to download the files. Spent a few hours studying for the GWE today. I have been keeping up with about 2 or so hours a day but I would like to step that up a little bit in the future.
+
+6/18,2018
 Start attempting to connect matches to images from the catalog. I have a number of matches using the ACS_F475W filter that I can test on to try and get just a couple images downloaded in the next few days. I am currently unable to find the pointer to the image file though. Tomorrow I will try a few other things I think might work to get the image downloaded. I will keep working with Clara from support to try and figure out my error.
 
 6/12/2018-6/15/2018
