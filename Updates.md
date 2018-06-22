@@ -1,5 +1,8 @@
 # Updates
 
+6/21/2018
+It turns out the file I downloaded yesterday is a fits file. It just has to have the extension converted. This is very very useful. First of all, now that I have access to downloading the files, I can start making the plan to loop through downloads and make cuts as I go. Second of all, for some unknown reason, my loop that matches dr8objid to MatchId is working now... I have not figured out why but I am not complaining. I now have a list stored to file of all of the matches between the Zoo catalog and the HSC catalog. This means I don't have to run the matching anymore, I can just move on to the plan for downloading. I will begin work on that today.
+
 6/20/2018
 I spent a lot of the day helping my roommate out. With the time I did have, I finished the paper I was reading, studied for the GWE, and tried to download a FITS file from the HSC catalog. I have a file that seems to have something in it. It is about 300MB but the file type is not something I have seen before. I am going to try and see if I can convert it in to something usable tomorrow.
 
