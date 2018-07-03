@@ -1,7 +1,16 @@
 # Updates
 
-
-
+7/2/2018
+After the meeting today I have a few things I need to make sure to understand. The following is a list, to my knowledge, of what the goals of this project are.
+Have the ability to produce many images from the HST that match to images obtainable via the SDSS.
+These images, if there are enough of them and if it is deemed necessary, can be used to start a galaxy zoo project.
+This project will consist of classifications of morphology which will then be associated with the mass of the galazy chosen.
+This information will be used to crossreference a paper which claims that there is a morphology change of galaxies at a certain mass.
+This transition if 10^9.5-10^10.5 times the mass of the sun.
+Lower than this range, galaxies from in disorganized ways.
+In this range, galaxies form in a disk shape.
+Above this range, galaxies from in a spheroidal shape.
+Beyond this, I am unsure where the project will go next.
 
 6/22-30/2018
 Over the past week I have continued developing code to be able to run the downloading procedure on any catalog we would like to match to. This included running the original matching loop and saving the data to an astropy table. This comes in about 400 separate tables that I spent a day (with the help of Michael) figuring out how to put together into one table and save it to file so I won't have to run it again. With this done I started developing code to take the match IDs and create a list of images associated with those match IDs. There will be some repeats in this procedure. This means I had to go back through and create a dictionary where the key is the name of the image and the information in the dictionary is the actual match IDs associated with that image. This will allow me to only download each image once instead of multiple times for the repeating matches. Once this was working, I developed some code to start downloading batches of images in groups of 4 for testing. My code now downloads the images, selects the location of the matches on the image, cuts them out, and saves this information to a new fits file. There are a few things I still need to iron out though. The radius is still not correct for each cut, the cuts themselves are not perfectly centered, the downloading process still spits out a System.String[] file which I cannot use for cuts easily, and I still need to get it to loop through the entire dictionary. These will be my steps going forward.
