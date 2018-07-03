@@ -1,5 +1,11 @@
 # Updates
 
+
+
+
+6/22-30/2018
+Over the past week I have continued developing code to be able to run the downloading procedure on any catalog we would like to match to. This included running the original matching loop and saving the data to an astropy table. This comes in about 400 separate tables that I spent a day (with the help of Michael) figuring out how to put together into one table and save it to file so I won't have to run it again. With this done I started developing code to take the match IDs and create a list of images associated with those match IDs. There will be some repeats in this procedure. This means I had to go back through and create a dictionary where the key is the name of the image and the information in the dictionary is the actual match IDs associated with that image. This will allow me to only download each image once instead of multiple times for the repeating matches. Once this was working, I developed some code to start downloading batches of images in groups of 4 for testing. My code now downloads the images, selects the location of the matches on the image, cuts them out, and saves this information to a new fits file. There are a few things I still need to iron out though. The radius is still not correct for each cut, the cuts themselves are not perfectly centered, the downloading process still spits out a System.String[] file which I cannot use for cuts easily, and I still need to get it to loop through the entire dictionary. These will be my steps going forward.
+
 6/21/2018
 It turns out the file I downloaded yesterday is a fits file. It just has to have the extension converted. This is very very useful. First of all, now that I have access to downloading the files, I can start making the plan to loop through downloads and make cuts as I go. Second of all, for some unknown reason, my loop that matches dr8objid to MatchId is working now... I have not figured out why but I am not complaining. I now have a list stored to file of all of the matches between the Zoo catalog and the HSC catalog. This means I don't have to run the matching anymore, I can just move on to the plan for downloading. I will begin work on that today.
 
