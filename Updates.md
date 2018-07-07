@@ -1,5 +1,8 @@
 # Updates
 
+7/3-6/2018
+So far, the work on centering the images has been slow going. I have the files converted to another type to see if that will prevent the truncation of the floats. The problem now is I belive the MAST service is down. I am unable to complete a query due to a connection error. I will give it through the weekend to see if it is back up then I will contact support again to see if something is wrong. Meanwhile, I have been studying for a few hours a day. I will contact Dr. Fortson this weekend to ask when to be back to campus for our next meeting. I will also read a paper this weekend.
+
 7/2/2018
 After the meeting today I have a few things I need to make sure to understand. The following is a list, to my knowledge, of what the goals of this project are.
 Have the ability to produce many images from the HST that match to images obtainable via the SDSS.
